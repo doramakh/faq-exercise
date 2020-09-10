@@ -20,6 +20,11 @@ body {
   padding: 0;
 }
 
+img{
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
   max-width: 1148px;
   padding: 0 24px;
